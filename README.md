@@ -4,17 +4,18 @@
   </div>
   
 
-### <div align="center"><h2>Hi! 👋 My name is Nabin, Learning Web Full Stack Development</h2></div>  
+### <div align="center"><h2>Hi! 👋 My name is Nabin, Learning Full Stack Development</h2></div>
 
   <hr>
 
 - ⚛ I am Learning React Now.  
   
 
-- ❓ Ask me about anything related to Technologies  
+- ❓ Ask me about anything related to Technologies.
   
 
-- ⚡ Fun fact: I use tabs over spaces.  
+- ⚡ Fun fact: I use tabs over spaces.
+- 📫 How to reach me **pnabin225@gmail.com**
   
 
 <br/>  
