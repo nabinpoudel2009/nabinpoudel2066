@@ -68,12 +68,7 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://instagram.com/nabinpoudel2009" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61577790364237" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<a href="https://github.com/nabinpoudel2066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nabinpoudel2066" height="30" width="40" /></a>
+<a href="https://fb.com/Nabin Poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nabin Poudel" height="30" width="40" /></a>
+<a href="https://instagram.com/nabinpoudel2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabinpoudel2009" height="30" width="40" /></a>
 
