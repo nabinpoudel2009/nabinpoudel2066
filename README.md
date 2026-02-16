@@ -37,5 +37,21 @@
          height="50" 
          alt="Facebook" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;  <!-- 4 spaces for gap -->
+
+  <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" 
+         height="50" 
+         alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" 
+         height="50" 
+         alt="Facebook" />
+  </a>
+</div>
+
 </div>
 
