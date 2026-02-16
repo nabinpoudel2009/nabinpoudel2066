@@ -31,27 +31,6 @@
 
 <h3>Let's Connect</h3>
 
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" 
-         height="50" 
-         alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;  <!-- 4 spaces for gap -->
-
-  <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" 
-         height="50" 
-         alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" 
-         height="50" 
-         alt="Facebook" />
-  </a>
-</div>
-
-</div>
+<a href="" alt=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
 
