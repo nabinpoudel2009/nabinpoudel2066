@@ -1,12 +1,14 @@
+  
   <div align="center">
     <img height="122" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   </div>
   
 
-### <div align="center">My name is Nabin, Learning Web Full Stack Development</div>  
-  
+### <div align="center">Hi! 👋 My name is Nabin, Learning Web Full Stack Development</div>  
 
-- I am Learning React Now.  
+  <hr>
+
+- ⚛ I am Learning React Now.  
   
 
 - ❓ Ask me about anything related to Technologies  
@@ -61,6 +63,8 @@
 
 <br/>  
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabinpoudel2066&theme=dark" alt="GitHub Streak" />
+
 
 ## Connect with me  
 <div align="center">
@@ -71,3 +75,4 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
