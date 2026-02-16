@@ -4,7 +4,7 @@
   </div>
   
 
-### <div align="center">Hi! 👋 My name is Nabin, Learning Web Full Stack Development</div>  
+### <div align="center"><h2>Hi! 👋 My name is Nabin, Learning Web Full Stack Development</h2></div>  
 
   <hr>
 
