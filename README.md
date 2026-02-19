@@ -4,7 +4,7 @@
   </div>
   
 
-### <div align="center"><h2>Hi! 👋 I Nabin, Learning Full Stack Development. From Nepal 🇳🇵</h2></div>
+### <div align="center"><h2>Hi! 👋 I am Nabin, Learning Full Stack Development. From Nepal 🇳🇵</h2></div>
 
   <hr>
 
