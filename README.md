@@ -71,3 +71,5 @@
 
 <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="lightroom"  /></a>
 <img width="12" />
+<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="lightroom"  /></a>
+<img width="12" />
