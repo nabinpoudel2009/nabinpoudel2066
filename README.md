@@ -68,7 +68,6 @@
 
 
 ## Connect with Me
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nabin-poudel-6ab0603b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1Few96QH9Y/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/nabinpoudel2009" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
+<a href="https://www.facebook.com/profile.php?id=61577790364237" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="lightroom"  /></a>
+<img width="12" />
