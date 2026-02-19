@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -44,20 +42,9 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" height="40" alt="indesgin"  />
   <img width="12" />
-  <img src="https://brandeps.com/logo-download/A/Adobe-Premiere-Pro-CC-logo-vector-01.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://iconlogovector.com/uploads/images/2024/08/lg-66cb1c274c5a3-Adobe-Lightroom-Classic.webp" height="40" alt="lightroom"  />
-  <img width="12" />
-  <img src="https://static.wikia.nocookie.net/logopedia/images/2/29/DaVinci_Resolve_2020.png/revision/latest/scale-to-width-down/200?cb=20230125204839" height="40" alt="lightroom"  />
-  <img width="12" />
   
 </div>
 
@@ -69,7 +56,13 @@
 
 ## Connect with Me
 
-<a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="lightroom"  /></a>
+<a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="facebook"  /></a>
 <img width="12" />
-<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="lightroom"  /></a>
+<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" height="40" alt="instagram"  /></a>
+<img width="12" />
+<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
+<img width="12" />
+<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://www.svgrepo.com/show/452121/twitter-1.svg" height="40" alt="twitter"  /></a>
+<img width="12" />
+<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.svg" height="40" alt="twitter"  /></a>
 <img width="12" />
