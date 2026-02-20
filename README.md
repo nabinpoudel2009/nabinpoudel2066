@@ -60,11 +60,11 @@
 
 <a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="facebook"  /></a>
 <img width="12" />
-<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" height="40" alt="instagram"  /></a>
+<a href="https://www.instagram.com/nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" height="40" alt="instagram"  /></a>
 <img width="12" />
-<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
+<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
 <img width="12" />
-<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://www.svgrepo.com/show/452121/twitter-1.svg" height="40" alt="twitter"  /></a>
+<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://www.svgrepo.com/show/452121/twitter-1.svg" height="40" alt="twitter"  /></a>
 <img width="12" />
-<a href="https://www.instagram.com/profile.nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.svg" height="40" alt="twitter"  /></a>
+<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.svg" height="40" alt="twitter"  /></a>
 <img width="12" />
