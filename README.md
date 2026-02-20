@@ -36,11 +36,15 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="mongo logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" alt="typeScript logo"  />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="40" alt="nextJs logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/express-js-icon-svg-download-png-4492470.png?f=webp&w=256" height="40" alt="nextJs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="40" alt="docker"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
