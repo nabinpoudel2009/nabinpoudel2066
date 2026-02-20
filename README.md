@@ -85,7 +85,7 @@
 <img width="12" />
 <a href="" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
 <img width="12" />
-<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://www.svgrepo.com/show/452121/twitter-1.svg" height="40" alt="twitter"  /></a>
+<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/x-icon-svg-download-png-12706486.png?f=webp&w=128" height="40" alt="twitter"  /></a>
 <img width="12" />
 <a href="" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.svg" height="40" alt="twitter"  /></a>
 <img width="12" />
