@@ -34,13 +34,13 @@
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/redux-action-icon-svg-download-png-9632879.png?f=webp&w=128" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="mongo logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174925.png?f=webp&w=256" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" alt="typeScript logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="40" alt="nextJs logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="mongo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -53,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idZHcZ_i7F/w/320/h/320/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1729268227605" height="40" alt="figma logo"  />
   
 </div>
 
