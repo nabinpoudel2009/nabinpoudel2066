@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/redux-action-icon-svg-download-png-9632879.png?f=webp&w=128" height="40" alt="redux logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="mongo logo"  />
