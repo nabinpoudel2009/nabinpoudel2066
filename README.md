@@ -83,7 +83,7 @@
 <img width="12" />
 <a href="https://www.instagram.com/nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" height="40" alt="instagram"  /></a>
 <img width="12" />
-<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
+<a href="https://www.linkedin.com/in/nabin-poudel-6ab0603b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
 <img width="12" />
 <a href="" target="_blank" alt="nabinpoudel fb"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/x-icon-svg-download-png-12706486.png?f=webp&w=128" height="40" alt="twitter"  /></a>
 <img width="12" />
