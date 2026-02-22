@@ -10,10 +10,8 @@
   <hr>
 
 - ⚛ I am Learning React Now.  
-  
 
 - ❓ Ask me about anything related to Technologies.
-  
 
 - ⚡ Fun fact: I use tabs over spaces.
 - 📫 How to reach me **pnabin225@gmail.com**
