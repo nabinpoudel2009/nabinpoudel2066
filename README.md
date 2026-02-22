@@ -70,10 +70,6 @@
   
   </div> -->
 
-<br/>  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabinpoudel2066&theme=dark" alt="GitHub Streak" />
-
 
 ## Connect with Me
 
