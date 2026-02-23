@@ -57,20 +57,8 @@
   
 </div>
 
-<!-- <h3 align="left">Development & Deployment Tools</h3>
-  <div align="left">
-  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40" alt="vs code"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" height="40" alt="cursor AI"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" height="40" alt="cursor AI"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/withastro/docs/main/public/logos/vercel.svg" height="40" alt="cursor AI"  />
-  <img width="12" />
-  
-  </div> -->
-
 <!-- GitHub stats -->
+
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabinpoudel2009&theme=dark" alt="GitHub Streak" />
 
