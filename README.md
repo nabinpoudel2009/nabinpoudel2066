@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/redux-action-icon-svg-download-png-9632879.png?f=webp&w=128" height="40" alt="redux logo"  />
-  <img width="12" />
+  <img src="https://images.prismic.io/toyfight/65e1e07d27237c2bb829b9dc_GSAP-Meta-image.jpg?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=2400&h=1260" height="40" alt="redux logo"  />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174925.png?f=webp&w=256" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" alt="typeScript logo"  />
