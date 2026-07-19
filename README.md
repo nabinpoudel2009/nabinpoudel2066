@@ -45,17 +45,7 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="40" alt="docker"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/omJhwYZb2pfwOEepADpCiA0ZBYOb27Dk6GJuW0Wj5zA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3Rh/bmRwZnVuL3NraWxs/LWljb25zL21haW4v/aWNvbnMvS3ViZXJu/ZXRlcy5zdmc" height="40" alt="kubernaties"  />
-  <img width="12" />
-  <img src="https://imgs.search.brave.com/MVcuetUjBVB7VGyVxVCktXCZuRRjShS_pQS3id8MjzE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2xv/YmVodWIvbG9iZS1p/Y29ucy9yZWZzL2hl/YWRzL21hc3Rlci9w/YWNrYWdlcy9zdGF0/aWMtcG5nL2Rhcmsv/YXdzLWNvbG9yLnBu/Zw" height="40" alt="aws"  />
-  <img width="12" />
-  <img src="https://imgs.search.brave.com/Nc07TtnlW3Y-F8OnBrdrQGTgGgJEqkdabjPmeI9ym50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3Mvai82/My9qZW5raW5zX3Ro/dW1iLnBuZw" height="40" alt="jenkins"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" height="40" alt="indesgin"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
@@ -71,18 +61,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=nabinpoudel2009&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nabinpoudel2009&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabinpoudel2009&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## Connect with Me
-
-<a href="https://www.facebook.com/profile.php?id=61577790364237" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" height="40" alt="facebook"  /></a>
-<img width="12" />
-<a href="https://www.instagram.com/nabinpoudel2009" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" height="40" alt="instagram"  /></a>
-<img width="12" />
-<a href="https://www.linkedin.com/in/nabin-poudel-6ab0603b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="40" alt="linked in"  /></a>
-<img width="12" />
-<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/x-icon-svg-download-png-12706486.png?f=webp&w=128" height="40" alt="twitter"  /></a>
-<img width="12" />
-<a href="" target="_blank" alt="nabinpoudel fb"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.svg" height="40" alt="twitter"  /></a>
-<img width="12" />
