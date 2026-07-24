@@ -5,17 +5,7 @@
   </div>
   
 
-### <div align="center"><h2>Hi! 👋 I am Nabin, Learning Full Stack Development.</h2></div>
-
-  <hr>
-
-- ⚛ I am Learning React Now.  
-
-- ❓ Ask me about anything related to Technologies.
-
-- ⚡ Fun fact: I use tabs over spaces.
-- 📫 How to reach me **pnabin225@gmail.com**
-  
+### <div align="center"><h2>Hi! 👋 I am Nabin, Learning Full Stack Development.</h2></div
 
 <br/>  
 
@@ -32,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/redux-action-icon-svg-download-png-9632879.png?f=webp&w=128" height="40" alt="redux logo"  />
-  <img src="https://images.prismic.io/toyfight/65e1e07d27237c2bb829b9dc_GSAP-Meta-image.jpg?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=2400&h=1260" height="40" alt="redux logo"  />
+  <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174925.png?f=webp&w=256" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" alt="typeScript logo"  />
@@ -42,8 +32,6 @@
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="mongo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="40" alt="docker"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
